@@ -1,4 +1,4 @@
-# Roblox Account Manager
+# SessionX
 
 A lightweight Windows application for managing Roblox accounts and Roblox client sessions.
 
@@ -20,7 +20,7 @@ A lightweight Windows application for managing Roblox accounts and Roblox client
 
 ## Status
 
-Roblox Account Manager is currently in development.
+SessionX is currently in development.
 
 Features may change as the project develops.
 
@@ -37,7 +37,7 @@ Clone the repository:
 git clone https://github.com/DuckyCashy/RobloxAccountManager.git
 ```
 
-Open `RobloxAccountManager.sln` in Visual Studio and build the solution.
+Open `SessionX.sln` in Visual Studio and build the solution.
 
 ## Security
 
